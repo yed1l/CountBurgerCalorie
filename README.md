@@ -1,2 +1,2 @@
-# burger_calorie
-app on Android Studio
+# Counting_BurgerCalorie
+app on Kotlin
